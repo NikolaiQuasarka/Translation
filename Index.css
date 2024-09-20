@@ -1,0 +1,26 @@
+html{
+    padding: 0;
+}
+body{
+    margin: 0;
+    padding: 10px;
+    background-color: #292c35;
+    color: white;
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+}
+#readzone{
+    width: 80%;
+    padding: 10px;
+    box-sizing: border-box;
+
+    border: white 2px solid;
+}
+pre{
+    white-space: pre-wrap;
+
+    font-style:normal;
+    font-family:'Times New Roman', Times, serif;
+}
